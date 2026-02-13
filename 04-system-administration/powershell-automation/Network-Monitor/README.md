@@ -21,4 +21,4 @@ This project is PowerShell-based, and it monitors TCP connections and flags thos
 ### Screenshot
 <img width="765" height="149" alt="image" src="https://github.com/user-attachments/assets/a62260a0-df02-4bb4-b7a9-f92c03b9d01c" />
 
-#### [Output log file](./connections_2026-02-13_19-52)
+#### [Output log file](./connections_2026-02-13_19-52.txt)
