@@ -16,8 +16,11 @@ Full here: [secure-code](./secure-code.py)
 #### MySQL
 cursor.execute("SELECT * FROM users WHERE userid = %s", (userid,))
 
-## Other Solutions
+## Additional Defense Layers
 
 ### Input Validation
 It checks user input before it reaches the database by allowing only certain defined characters.
 [code](./input-validation.py)
+
+### Least Privilege
+Database user has minimum necessary permissions.
