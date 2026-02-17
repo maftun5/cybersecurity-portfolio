@@ -22,6 +22,7 @@ I analyzed a pcap file in VM and documented a complete attack
 I created detection methods:
 - **Wireshark Filters**
 - **Snort Rules**
+
 [Full here](detection/)
 
 ## Prevention Techniques
@@ -29,5 +30,7 @@ I created detection methods:
 I demonstrated secure coding with:
 - **Parametrized queries** 
 - **Input Validation** with regex whitelisting
-Done in Python
-[View Here](/prevention)
+
+*Done in Python*
+
+[View Here](prevention/)
