@@ -14,7 +14,7 @@
 - **[Port Scanning & Reconnaissance](./01-network-security/port-scanning/)** - Used Nmap for network discovery and vulnerability assessment
 
 ### Offensive Security
-- **[MySQL Database Attack Lab](./02-offensive-security/mysql-attack-lab/)** - Demonstrated SQL injection techniques and database exploitation
+- **[MySQL Database Attack Lab](./02-offensive-security/SQL-Injection-Forensics/)** - Demonstrated SQL injection techniques and database exploitation
 
 ### Defensive Security
 - **[Server Log Analysis](./03-defensive-security/log-analysis/)** - Investigated security incidents through log file analysis
